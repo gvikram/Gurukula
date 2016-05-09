@@ -1,0 +1,834 @@
+2016-05-10 00:03:10,040 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_002	Verify update User settings 
+2016-05-10 00:03:10,040 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_002	Verify update User settings 
+2016-05-10 00:03:10,451 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:03:10,451 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:03:24,767 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:03:24,767 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:03:25,099 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:03:25,099 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:03:25,294 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:03:25,294 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:03:25,428 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:03:25,428 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:03:26,641 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:03:26,641 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:04:49,664 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_007	Verify invalidate session 
+2016-05-10 00:04:49,664 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_007	Verify invalidate session 
+2016-05-10 00:04:50,245 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:04:50,245 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:05:04,381 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:05:04,381 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:05:04,721 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:05:04,721 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:05:04,913 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:05:04,913 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:05:05,056 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:05:05,056 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:05:05,711 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_007	Verify invalidate session 
+2016-05-10 00:05:05,711 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_007	Verify invalidate session 
+2016-05-10 00:05:05,713 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:05:05,713 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:05:48,955 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_001	Verify User Settings page title
+2016-05-10 00:05:48,955 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_001	Verify User Settings page title
+2016-05-10 00:05:49,352 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:05:49,352 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:03,628 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:03,628 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:03,994 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:03,994 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:04,207 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:06:04,207 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:06:04,352 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:06:04,352 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:06:04,930 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_001	Verify User Settings page title
+2016-05-10 00:06:04,930 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_001	Verify User Settings page title
+2016-05-10 00:06:04,933 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:06:04,933 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:06:07,248 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_002	Verify update User settings 
+2016-05-10 00:06:07,248 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_002	Verify update User settings 
+2016-05-10 00:06:07,672 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:07,672 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:22,334 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:22,334 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:22,511 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:22,511 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:22,726 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:06:22,726 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:06:22,857 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:06:22,857 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:06:24,100 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:06:24,100 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:06:26,394 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_003	Verify Password page title 
+2016-05-10 00:06:26,394 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_003	Verify Password page title 
+2016-05-10 00:06:26,815 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:26,815 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:41,285 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:41,285 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:41,709 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:41,709 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:41,934 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:06:41,934 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:06:42,121 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:06:42,121 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:06:42,213 [main] INFO [] com.org.gurukula.pages.LoginPage - Password page title shown as Password for [ + logged in user name + ]
+2016-05-10 00:06:42,213 [main] INFO [] com.org.gurukula.pages.LoginPage - Password page title shown as Password for [ + logged in user name + ]
+2016-05-10 00:06:42,682 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_003	Verify Password page title 
+2016-05-10 00:06:42,682 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_003	Verify Password page title 
+2016-05-10 00:06:42,684 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:06:42,684 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:06:44,965 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:06:44,965 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:06:45,445 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:45,445 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:06:59,564 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:59,564 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:06:59,903 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:06:59,903 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:00,089 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:00,089 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:00,249 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:00,249 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:00,881 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:07:00,881 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:07:00,883 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:00,883 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:03,134 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:07:03,134 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:07:03,555 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:03,555 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:18,091 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:07:18,091 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:07:18,253 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:18,253 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:18,457 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:18,457 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:18,610 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:18,610 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:19,214 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:07:19,214 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:07:19,216 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:19,216 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:21,459 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_006	Verify Session title
+2016-05-10 00:07:21,459 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_006	Verify Session title
+2016-05-10 00:07:21,884 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:21,884 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:36,244 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:07:36,244 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:07:36,517 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:36,517 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:36,718 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:36,718 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:36,853 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:36,853 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:37,355 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_006	Verify Session title
+2016-05-10 00:07:37,355 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_006	Verify Session title
+2016-05-10 00:07:37,357 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:37,357 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:39,613 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_007	Verify invalidate session 
+2016-05-10 00:07:39,613 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_007	Verify invalidate session 
+2016-05-10 00:07:40,041 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:40,041 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:54,551 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:07:54,551 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:07:54,713 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:54,713 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:07:54,914 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:54,914 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:07:55,052 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:55,052 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:07:55,730 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_007	Verify invalidate session 
+2016-05-10 00:07:55,730 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_007	Verify invalidate session 
+2016-05-10 00:07:55,731 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:55,731 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:07:57,958 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_008	Verify Logout
+2016-05-10 00:07:57,958 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_008	Verify Logout
+2016-05-10 00:07:58,358 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:07:58,358 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:08:12,754 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:08:12,754 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:08:13,029 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:08:13,029 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:08:13,224 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:08:13,224 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:08:13,361 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:08:13,361 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:08:14,047 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_008	Verify Logout
+2016-05-10 00:08:14,047 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_008	Verify Logout
+2016-05-10 00:08:14,049 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:08:14,049 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:10:47,908 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:10:47,908 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:10:48,201 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:10:48,201 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:11:02,871 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:11:02,871 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:11:02,873 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:11:02,873 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:11:05,221 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:11:05,221 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:11:05,655 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:11:05,655 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:11:20,310 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:11:20,310 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:11:20,311 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:11:20,311 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:12:13,302 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_001	Verify Branch title
+2016-05-10 00:12:13,302 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_001	Verify Branch title
+2016-05-10 00:12:13,742 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:12:13,742 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:12:28,046 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:12:28,046 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:12:28,347 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:12:28,347 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:12:28,555 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:12:28,555 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:12:28,681 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:12:28,681 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:12:28,767 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:12:28,767 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:12:29,259 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_001	Verify Branch title
+2016-05-10 00:12:29,259 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_001	Verify Branch title
+2016-05-10 00:12:29,260 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:12:29,260 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:12:31,838 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_002	Verify create new branch
+2016-05-10 00:12:31,838 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_002	Verify create new branch
+2016-05-10 00:12:32,066 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:12:32,066 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:12:46,449 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:12:46,449 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:12:46,619 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:12:46,619 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:12:46,821 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:12:46,821 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:12:46,973 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:12:46,973 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:12:47,049 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:12:47,049 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:12:47,381 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:12:47,381 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:12:48,803 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_002	Verify create new branch
+2016-05-10 00:12:48,803 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_002	Verify create new branch
+2016-05-10 00:12:48,805 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:12:48,805 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:12:51,139 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_003	Verify Branch Search 
+2016-05-10 00:12:51,139 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_003	Verify Branch Search 
+2016-05-10 00:12:51,526 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:12:51,526 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:13:06,118 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:13:06,118 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:13:06,278 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:13:06,278 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:13:06,491 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:13:06,491 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:13:06,633 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:13:06,633 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:13:06,711 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:13:06,711 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:13:07,050 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:13:07,050 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:13:08,754 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - branch_003	Verify Branch Search org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (939, 172). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir9204_21819}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e1ac185004731806f307ae32330452f2
+2016-05-10 00:13:08,754 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - branch_003	Verify Branch Search org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (939, 172). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir9204_21819}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e1ac185004731806f307ae32330452f2
+2016-05-10 00:13:08,756 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:13:08,756 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:13:54,260 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_001	Verify Staff page title
+2016-05-10 00:13:54,260 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_001	Verify Staff page title
+2016-05-10 00:13:54,663 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:13:54,663 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:13:54,668 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:13:54,668 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:14:09,021 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:14:09,021 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:14:09,185 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:14:09,185 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:14:09,375 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:14:09,375 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:14:09,518 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:14:09,518 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:14:09,595 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - staff_001	Verify Staff page title
+2016-05-10 00:14:09,595 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - staff_001	Verify Staff page title
+2016-05-10 00:14:09,597 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:14:09,597 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:14:11,939 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - Staff_002	Verify create new Staff
+2016-05-10 00:14:11,939 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - Staff_002	Verify create new Staff
+2016-05-10 00:14:12,377 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:14:12,377 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:14:12,378 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:14:12,378 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:14:26,889 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:14:26,889 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:14:27,064 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:14:27,064 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:14:27,268 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:14:27,268 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:14:27,414 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:14:27,414 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:14:27,494 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:14:27,494 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:14:27,824 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:14:27,824 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:14:28,707 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:14:28,707 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:14:38,854 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir11172_15694}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b0e36a85ff89e8fb136683d7347a208
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:14:38,854 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir11172_15694}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b0e36a85ff89e8fb136683d7347a208
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:14:38,949 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - Staff_002	Verify create new Staff
+2016-05-10 00:14:38,949 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - Staff_002	Verify create new Staff
+2016-05-10 00:14:38,951 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:14:38,951 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:14:41,309 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_004	Verify Staff View
+2016-05-10 00:14:41,309 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_004	Verify Staff View
+2016-05-10 00:14:41,759 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:14:41,759 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:14:41,761 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:14:41,761 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:14:56,266 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:14:56,266 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:14:56,548 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:14:56,548 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:14:56,736 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:14:56,736 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:14:56,878 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:14:56,878 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:14:56,949 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:14:56,949 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:14:57,287 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:14:57,287 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:14:58,203 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:14:58,203 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:15:08,369 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir9712_8612}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c09831b1dbb4166832fe70c30992df72
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:15:08,369 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir9712_8612}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c09831b1dbb4166832fe70c30992df72
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:15:08,467 [main] INFO [] com.org.gurukula.pages.StaffPage - Clicked on Branch view button
+2016-05-10 00:15:08,467 [main] INFO [] com.org.gurukula.pages.StaffPage - Clicked on Branch view button
+2016-05-10 00:15:08,742 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - staff_004	Verify Staff Vieworg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 109 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir9712_8612}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c09831b1dbb4166832fe70c30992df72
+2016-05-10 00:15:08,742 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - staff_004	Verify Staff Vieworg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 109 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir9712_8612}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c09831b1dbb4166832fe70c30992df72
+2016-05-10 00:15:08,744 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:15:08,744 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:18:10,650 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_001	Verify User Settings page title
+2016-05-10 00:18:10,650 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_001	Verify User Settings page title
+2016-05-10 00:18:11,036 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:18:11,036 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:18:25,940 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:18:25,940 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:18:26,862 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:18:26,862 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:18:27,074 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:18:27,074 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:18:27,217 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:18:27,217 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:18:28,449 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_001	Verify User Settings page title
+2016-05-10 00:18:28,449 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_001	Verify User Settings page title
+2016-05-10 00:18:28,452 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:18:28,452 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:18:30,877 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_002	Verify update User settings 
+2016-05-10 00:18:30,877 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_002	Verify update User settings 
+2016-05-10 00:18:31,322 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:18:31,322 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:18:46,206 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:18:46,206 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:18:46,398 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:18:46,398 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:18:46,621 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:18:46,621 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:18:46,764 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:18:46,764 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:18:48,130 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:18:48,130 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:18:50,361 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_003	Verify Password page title 
+2016-05-10 00:18:50,361 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_003	Verify Password page title 
+2016-05-10 00:18:50,811 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:18:50,811 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:19:05,272 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:19:05,272 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:19:05,606 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:19:05,606 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:19:05,820 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:19:05,820 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:19:05,962 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:19:05,962 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:19:06,037 [main] INFO [] com.org.gurukula.pages.LoginPage - Password page title shown as Password for [ + logged in user name + ]
+2016-05-10 00:19:06,037 [main] INFO [] com.org.gurukula.pages.LoginPage - Password page title shown as Password for [ + logged in user name + ]
+2016-05-10 00:19:06,475 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_003	Verify Password page title 
+2016-05-10 00:19:06,475 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_003	Verify Password page title 
+2016-05-10 00:19:06,476 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:19:06,476 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:19:08,650 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:19:08,650 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:19:09,074 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:19:09,074 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:19:23,452 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:19:23,452 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:19:23,791 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:19:23,791 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:19:24,018 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:19:24,018 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:19:24,196 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:19:24,196 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:19:24,846 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:19:24,846 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_004	Verify enter 3 chars in Password 
+2016-05-10 00:19:24,848 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:19:24,848 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:19:27,073 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:19:27,073 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:19:27,487 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:19:27,487 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:19:41,871 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:19:41,871 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:19:42,207 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:19:42,207 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:19:42,409 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:19:42,409 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:19:42,552 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:19:42,552 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:19:43,174 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:19:43,174 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_005	Verify Password strength after enter Vikky123 in New Password
+2016-05-10 00:19:43,177 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:19:43,177 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:19:45,445 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_006	Verify Session title
+2016-05-10 00:19:45,445 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_006	Verify Session title
+2016-05-10 00:19:45,893 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:19:45,893 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:00,341 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:00,341 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:00,655 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:00,655 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:00,845 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:00,845 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:00,991 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:00,991 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:01,535 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_006	Verify Session title
+2016-05-10 00:20:01,535 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_006	Verify Session title
+2016-05-10 00:20:01,537 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:01,537 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:03,789 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_007	Verify invalidate session 
+2016-05-10 00:20:03,789 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_007	Verify invalidate session 
+2016-05-10 00:20:04,231 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:04,231 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:18,789 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:18,789 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:19,104 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:19,104 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:19,296 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:19,296 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:19,436 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:19,436 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:20,079 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_007	Verify invalidate session 
+2016-05-10 00:20:20,079 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_007	Verify invalidate session 
+2016-05-10 00:20:20,081 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:20,081 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:22,372 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_008	Verify Logout
+2016-05-10 00:20:22,372 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - account_008	Verify Logout
+2016-05-10 00:20:22,776 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:22,776 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:37,206 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:37,206 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:37,558 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:37,558 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:37,780 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:37,780 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:37,931 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:37,931 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:38,567 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_008	Verify Logout
+2016-05-10 00:20:38,567 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - account_008	Verify Logout
+2016-05-10 00:20:38,569 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:38,569 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:40,707 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_001 Verify login successful when entered valid username/password
+2016-05-10 00:20:40,707 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_001 Verify login successful when entered valid username/password
+2016-05-10 00:20:41,165 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:41,165 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:55,645 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:55,645 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:20:55,977 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:55,977 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:20:56,169 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:56,169 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:20:56,295 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:56,295 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:20:56,649 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_001 Verify login successful when entered valid username/password
+2016-05-10 00:20:56,649 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_001 Verify login successful when entered valid username/password
+2016-05-10 00:20:56,650 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:56,650 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:20:58,795 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_002  Verify Login fail when invalid username/password
+2016-05-10 00:20:58,795 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_002  Verify Login fail when invalid username/password
+2016-05-10 00:20:59,209 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:20:59,209 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:21:13,909 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:21:13,909 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:21:14,066 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:21:14,066 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:21:14,258 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:21:14,258 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:21:14,404 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:21:14,404 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:21:14,544 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_002  Verify Login fail when invalid username/password
+2016-05-10 00:21:14,544 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_002  Verify Login fail when invalid username/password
+2016-05-10 00:21:14,545 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:21:14,545 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:21:16,751 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_003 Verify click on Did you forgot your password?
+2016-05-10 00:21:16,751 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_003 Verify click on Did you forgot your password?
+2016-05-10 00:21:17,204 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:21:17,204 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:21:31,793 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Reset Link
+2016-05-10 00:21:31,793 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Reset Link
+2016-05-10 00:21:32,097 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_003 Verify click on Did you forgot your password?
+2016-05-10 00:21:32,097 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_003 Verify click on Did you forgot your password?
+2016-05-10 00:21:32,099 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:21:32,099 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:21:34,394 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_004 Verify enter valid E-mail and click on Reset Password button
+2016-05-10 00:21:34,394 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_004 Verify enter valid E-mail and click on Reset Password button
+2016-05-10 00:21:34,794 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:21:34,794 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:21:49,554 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Reset Link
+2016-05-10 00:21:49,554 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Reset Link
+2016-05-10 00:21:50,147 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_004 Verify enter valid E-mail and click on Reset Password button
+2016-05-10 00:21:50,147 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_004 Verify enter valid E-mail and click on Reset Password button
+2016-05-10 00:21:50,148 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:21:50,148 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:21:52,310 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_005 Verify enter in-valid E-mail as test and click on Reset Password button
+2016-05-10 00:21:52,310 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_005 Verify enter in-valid E-mail as test and click on Reset Password button
+2016-05-10 00:21:52,863 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:21:52,863 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:22:07,486 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Reset Link
+2016-05-10 00:22:07,486 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Reset Link
+2016-05-10 00:22:07,888 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_005 Verify enter in-valid E-mail as test and click on Reset Password button
+2016-05-10 00:22:07,888 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_005 Verify enter in-valid E-mail as test and click on Reset Password button
+2016-05-10 00:22:07,891 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:22:07,891 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:22:10,266 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_006 Verify click on Register a new account link
+2016-05-10 00:22:10,266 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_006 Verify click on Register a new account link
+2016-05-10 00:22:10,617 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:22:10,617 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:22:25,321 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Register Link
+2016-05-10 00:22:25,321 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Register Link
+2016-05-10 00:22:25,614 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_006 Verify click on Register a new account link
+2016-05-10 00:22:25,614 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_006 Verify click on Register a new account link
+2016-05-10 00:22:25,617 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:22:25,617 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:22:27,887 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_007  Verify Registration page having Login, E-mail, New Password
+2016-05-10 00:22:27,887 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_007  Verify Registration page having Login, E-mail, New Password
+2016-05-10 00:22:28,273 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:22:28,273 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:22:42,924 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Register Link
+2016-05-10 00:22:42,924 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Register Link
+2016-05-10 00:22:43,488 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_007  Verify Registration page having Login, E-mail, New Password
+2016-05-10 00:22:43,488 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - login_007  Verify Registration page having Login, E-mail, New Password
+2016-05-10 00:22:43,489 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:22:43,489 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:22:45,637 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_008 Verify Registration with valid input data and it should successful
+2016-05-10 00:22:45,637 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - login_008 Verify Registration with valid input data and it should successful
+2016-05-10 00:22:46,099 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:22:46,099 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:00,738 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Register Link
+2016-05-10 00:23:00,738 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Register Link
+2016-05-10 00:23:01,723 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - login_008 Verify Registration with valid input data and it should successfulorg.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (477, 539). Other element would receive the click: <form ng-show="!success" name="form" role="form" novalidate="" ng-submit="register()" show-validation="" class="ng-invalid ng-valid-maxlength ng-dirty ng-valid-parse ng-invalid-pattern ng-valid-email ng-valid-required ng-valid-minlength">...</form>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir8712_12984}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0e6b7fb4231bcde5994a15c0f2658338
+2016-05-10 00:23:01,723 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - login_008 Verify Registration with valid input data and it should successfulorg.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (477, 539). Other element would receive the click: <form ng-show="!success" name="form" role="form" novalidate="" ng-submit="register()" show-validation="" class="ng-invalid ng-valid-maxlength ng-dirty ng-valid-parse ng-invalid-pattern ng-valid-email ng-valid-required ng-valid-minlength">...</form>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir8712_12984}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0e6b7fb4231bcde5994a15c0f2658338
+2016-05-10 00:23:01,724 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:01,724 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:03,913 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:23:03,913 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:23:04,333 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:04,333 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:19,177 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:23:19,177 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_001 Verify Home page having  Welcome to Gurukula!
+2016-05-10 00:23:19,178 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:19,178 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:21,334 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:23:21,334 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution started - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:23:21,756 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:21,756 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:36,519 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:23:36,519 [main] INFO [] com.org.gurukula.pages.HomePage - TC execution completed - home_002 Verify Copyright, Home & Account header links
+2016-05-10 00:23:36,520 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:36,520 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:38,722 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_001	Verify Staff page title
+2016-05-10 00:23:38,722 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_001	Verify Staff page title
+2016-05-10 00:23:39,132 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:23:39,132 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:23:39,134 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:39,134 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:53,573 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:23:53,573 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:23:53,902 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:23:53,902 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:23:54,098 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:23:54,098 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:23:54,236 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:23:54,236 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:23:54,311 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - staff_001	Verify Staff page title
+2016-05-10 00:23:54,311 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - staff_001	Verify Staff page title
+2016-05-10 00:23:54,312 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:54,312 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:23:56,515 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - Staff_002	Verify create new Staff
+2016-05-10 00:23:56,515 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - Staff_002	Verify create new Staff
+2016-05-10 00:23:56,962 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:23:56,962 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:23:56,964 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:23:56,964 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:24:11,605 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:24:11,605 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:24:11,771 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:24:11,771 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:24:11,961 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:24:11,961 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:24:12,098 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:24:12,098 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:24:12,173 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:24:12,173 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:24:12,520 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:24:12,520 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:24:13,433 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:24:13,433 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:24:23,608 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir7576_16379}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fef662eaf16b58979b729f7c0bda9ee8
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:24:23,608 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir7576_16379}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fef662eaf16b58979b729f7c0bda9ee8
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:24:23,708 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - Staff_002	Verify create new Staff
+2016-05-10 00:24:23,708 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - Staff_002	Verify create new Staff
+2016-05-10 00:24:23,709 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:24:23,709 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:24:26,045 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_004	Verify Staff View
+2016-05-10 00:24:26,045 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - staff_004	Verify Staff View
+2016-05-10 00:24:26,498 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:24:26,498 [main] INFO [] com.org.gurukula.pages.StaffPage - On Staff Page
+2016-05-10 00:24:26,499 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:24:26,499 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:24:40,802 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:24:40,802 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:24:41,131 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:24:41,131 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:24:41,321 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:24:41,321 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:24:41,468 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:24:41,468 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:24:41,538 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:24:41,538 [main] INFO [] com.org.gurukula.pages.StaffPage - Selecting Branch page
+2016-05-10 00:24:41,895 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:24:41,895 [main] INFO [] com.org.gurukula.pages.StaffPage - Creating new Branch
+2016-05-10 00:24:42,779 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:24:42,779 [main] INFO [] com.org.gurukula.pages.StaffPage - Select Branch Name
+2016-05-10 00:24:52,919 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir7080_23257}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c3914369346bcbb42f77ed073ac33c4
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:24:52,919 [main] ERROR [] com.org.gurukula.pages.BasePage - Element not foundorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir7080_23257}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c3914369346bcbb42f77ed073ac33c4
+*** Element info: {Using=xpath, value=//select[@name = 'related_staffbranch' and @ng-model = 'staff.related_branchId']}
+2016-05-10 00:24:53,043 [main] INFO [] com.org.gurukula.pages.StaffPage - Clicked on Branch view button
+2016-05-10 00:24:53,043 [main] INFO [] com.org.gurukula.pages.StaffPage - Clicked on Branch view button
+2016-05-10 00:24:53,267 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - staff_004	Verify Staff Vieworg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 71 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir7080_23257}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c3914369346bcbb42f77ed073ac33c4
+2016-05-10 00:24:53,267 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - staff_004	Verify Staff Vieworg.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 71 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir7080_23257}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c3914369346bcbb42f77ed073ac33c4
+2016-05-10 00:24:53,268 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:24:53,268 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:24:55,573 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_001	Verify Branch title
+2016-05-10 00:24:55,573 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_001	Verify Branch title
+2016-05-10 00:24:55,969 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:24:55,969 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:25:10,502 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:25:10,502 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:25:10,648 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:25:10,648 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:25:10,870 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:25:10,870 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:25:11,003 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:25:11,003 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:25:11,079 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:25:11,079 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:25:11,543 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_001	Verify Branch title
+2016-05-10 00:25:11,543 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_001	Verify Branch title
+2016-05-10 00:25:11,544 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:25:11,544 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:25:13,715 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_002	Verify create new branch
+2016-05-10 00:25:13,715 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_002	Verify create new branch
+2016-05-10 00:25:14,160 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:25:14,160 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:25:28,732 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:25:28,732 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:25:28,887 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:25:28,887 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:25:29,075 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:25:29,075 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:25:29,217 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:25:29,217 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:25:29,292 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:25:29,292 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:25:29,629 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:25:29,629 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:25:31,063 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_002	Verify create new branch
+2016-05-10 00:25:31,063 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution completed - branch_002	Verify create new branch
+2016-05-10 00:25:31,064 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:25:31,064 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:25:33,247 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_003	Verify Branch Search 
+2016-05-10 00:25:33,247 [main] INFO [] com.org.gurukula.pages.LoginPage - TC execution started - branch_003	Verify Branch Search 
+2016-05-10 00:25:33,672 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:25:33,672 [main] INFO [] com.org.gurukula.pages.LoginPage - Launch Gurukula application
+2016-05-10 00:25:48,290 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:25:48,290 [main] INFO [] com.org.gurukula.pages.LoginPage - Login link enabled or exists
+2016-05-10 00:25:48,449 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:25:48,449 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter user name
+2016-05-10 00:25:48,654 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:25:48,654 [main] INFO [] com.org.gurukula.pages.LoginPage - Enter password
+2016-05-10 00:25:48,777 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:25:48,777 [main] INFO [] com.org.gurukula.pages.LoginPage - Click on Authenticate Button
+2016-05-10 00:25:48,867 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:25:48,867 [main] INFO [] com.org.gurukula.pages.BranchPage - Selecting Branch page
+2016-05-10 00:25:49,208 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:25:49,208 [main] INFO [] com.org.gurukula.pages.BranchPage - Creating new Branch
+2016-05-10 00:25:50,860 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - branch_003	Verify Branch Search org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (939, 172). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 42 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir5420_22952}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0d3b7dcf955a8a83e654c80eb1747247
+2016-05-10 00:25:50,860 [main] ERROR [] com.org.gurukula.pages.LoginPage - TC failed - branch_003	Verify Branch Search org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (939, 172). Other element would receive the click: <div class="modal-backdrop fade"></div>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 42 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'VGUDIDEV-IN', ip: '192.168.1.4', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\vgudidev\AppData\Local\Temp\scoped_dir5420_22952}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0d3b7dcf955a8a83e654c80eb1747247
+2016-05-10 00:25:50,860 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed
+2016-05-10 00:25:50,860 [main] INFO [] com.org.gurukula.pages.LoginPage - Driver closed and Test completed

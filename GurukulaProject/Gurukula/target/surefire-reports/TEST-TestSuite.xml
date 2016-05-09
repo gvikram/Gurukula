@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="409.752" tests="24" errors="0" skipped="0" failures="3">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin"/>
+    <property name="java.vm.version" value="25.65-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Workspace\Gurukula"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Workspace\Gurukula"/>
+    <property name="java.runtime.version" value="1.8.0_65-b17"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\vgudidev\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\Workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5492838906006641600.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_65\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jdk1.8.0_65/jre/bin/server;C:/Program Files/Java/jdk1.8.0_65/jre/bin;C:/Program Files/Java/jdk1.8.0_65/jre/lib/amd64;C:\OracleATS\oxe\app\oracle\product\11.2.0\server\bin;;D:\app\client\vgudidev\product\12.1.0\client_1\bin;D:\app\vgudidev\product\11.2.0\client_1;D:\app\vgudidev\product\11.2.0\client_1\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\TortoiseSVN\bin;C:\workspace\liquibase;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\ORSDB\liquibase-3.4.2-bin;C:\ORSDB\liquibase-3.4.2-bin\lib;C:\Program Files\Java\jdk1.8.0_73\bin;C:\Softwares\apache-maven-3.3.9\bin;;C:\windows\system32;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\vgudidev"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="vgudidev"/>
+    <property name="java.class.path" value="/C:/Users/vgudidev/eclipse/jee-mars/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_65\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_65"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Workspace\Gurukula\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="account_001" classname="Test.Gurukula.AccountPageTest" time="17.75"/>
+  <testcase name="account_003" classname="Test.Gurukula.AccountPageTest" time="16.528"/>
+  <testcase name="account_004" classname="Test.Gurukula.AccountPageTest" time="16.33"/>
+  <testcase name="account_006" classname="Test.Gurukula.AccountPageTest" time="16.098"/>
+  <testcase name="account_008" classname="Test.Gurukula.AccountPageTest" time="16.211"/>
+  <testcase name="account_007" classname="Test.Gurukula.AccountPageTest" time="16.218">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at Test.Gurukula.AccountPageTest.account_007(AccountPageTest.java:185)
+</failure>
+    <system-out>user.dir: D:\Workspace\Gurukula
+</system-out>
+    <system-err>Starting ChromeDriver 2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4) on port 33529
+Only local connections are allowed.
+</system-err>
+  </testcase>
+  <testcase name="account_005" classname="Test.Gurukula.AccountPageTest" time="16.21"/>
+  <testcase name="account_002" classname="Test.Gurukula.AccountPageTest" time="16.824">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at Test.Gurukula.AccountPageTest.account_002(AccountPageTest.java:66)
+</failure>
+    <system-out>user.dir: D:\Workspace\Gurukula
+</system-out>
+    <system-err>Starting ChromeDriver 2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4) on port 31639
+Only local connections are allowed.
+</system-err>
+  </testcase>
+  <testcase name="login_001" classname="Test.Gurukula.LoginPageTest" time="15.838"/>
+  <testcase name="login_002" classname="Test.Gurukula.LoginPageTest" time="15.789">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:92)
+	at org.junit.Assert.assertTrue(Assert.java:43)
+	at org.junit.Assert.assertTrue(Assert.java:54)
+	at Test.Gurukula.LoginPageTest.login_002(LoginPageTest.java:62)
+</failure>
+    <system-out>user.dir: D:\Workspace\Gurukula
+</system-out>
+    <system-err>Starting ChromeDriver 2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4) on port 43680
+Only local connections are allowed.
+</system-err>
+  </testcase>
+  <testcase name="login_003" classname="Test.Gurukula.LoginPageTest" time="15.393"/>
+  <testcase name="login_004" classname="Test.Gurukula.LoginPageTest" time="15.749"/>
+  <testcase name="login_005" classname="Test.Gurukula.LoginPageTest" time="15.978"/>
+  <testcase name="login_006" classname="Test.Gurukula.LoginPageTest" time="15.597"/>
+  <testcase name="login_007" classname="Test.Gurukula.LoginPageTest" time="15.648"/>
+  <testcase name="login_008" classname="Test.Gurukula.LoginPageTest" time="16.304"/>
+  <testcase name="home_001" classname="Test.Gurukula.HomePageTest" time="15.209"/>
+  <testcase name="home_002" classname="Test.Gurukula.HomePageTest" time="15.096"/>
+  <testcase name="staff_001" classname="Test.Gurukula.StaffPageTest" time="15.537"/>
+  <testcase name="staff_002" classname="Test.Gurukula.StaffPageTest" time="26.96"/>
+  <testcase name="staff_003" classname="Test.Gurukula.StaffPageTest" time="27.25"/>
+  <testcase name="branch_001" classname="Test.Gurukula.BranchPageTest" time="16.057"/>
+  <testcase name="branch_002" classname="Test.Gurukula.BranchPageTest" time="17.616"/>
+  <testcase name="branch_003" classname="Test.Gurukula.BranchPageTest" time="17.562"/>
+</testsuite>

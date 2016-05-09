@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 466.174 sec <<< FAILURE!
+account_007(Test.Gurukula.AccountPageTest)  Time elapsed: 16.218 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at Test.Gurukula.AccountPageTest.account_007(AccountPageTest.java:185)
+
+account_002(Test.Gurukula.AccountPageTest)  Time elapsed: 16.824 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at Test.Gurukula.AccountPageTest.account_002(AccountPageTest.java:66)
+
+login_002(Test.Gurukula.LoginPageTest)  Time elapsed: 15.789 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:92)
+	at org.junit.Assert.assertTrue(Assert.java:43)
+	at org.junit.Assert.assertTrue(Assert.java:54)
+	at Test.Gurukula.LoginPageTest.login_002(LoginPageTest.java:62)
+

@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.result,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.result td,table.result th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.result th {vertical-align:bottom}
+tr.param th {padding-left:1em;padding-right:1em}
+tr.param td {padding-left:.5em;padding-right:2em}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.result td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.result tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">Test</td><td class="numi">21</td><td class="numi">21</td><td class="numi">0</td><td class="numi_attn">3</td><td class="numi">463.9 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="passed" id="summary">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr><th colspan="4">Test &#8212; failed</th></tr>
+<tr class="failedodd"><td rowspan="2">Test.Gurukula.AccountPageTest</td><td><a href="#m1"><b>account_002</b> (Account, Regression, Smoke) </a></td><td class="numi">1</td><td>1462816955581</td><td class="numi">16821</td></tr><tr class="failedodd"><td><a href="#m2"><b>account_007</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816918745</td><td class="numi">16167</td></tr>
+<tr class="failedeven"><td rowspan="1">Test.Gurukula.LoginPageTest</td><td><a href="#m3"><b>login_002</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462816992757</td><td class="numi">15789</td></tr>
+<tr><th colspan="4">Test &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="6">Test.Gurukula.AccountPageTest</td><td><a href="#m4"><b>account_001</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816824762</td><td class="numi">17771</td></tr><tr class="passedodd"><td><a href="#m5"><b>account_003</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816844927</td><td class="numi">16529</td></tr><tr class="passedodd"><td><a href="#m6"><b>account_004</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816863608</td><td class="numi">16337</td></tr><tr class="passedodd"><td><a href="#m7"><b>account_005</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816937131</td><td class="numi">16212</td></tr><tr class="passedodd"><td><a href="#m8"><b>account_006</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816882139</td><td class="numi">16097</td></tr><tr class="passedodd"><td><a href="#m9"><b>account_008</b> (Account, Regression) </a></td><td class="numi">1</td><td>1462816900379</td><td class="numi">16211</td></tr>
+<tr class="passedeven"><td rowspan="3">Test.Gurukula.BranchPageTest</td><td><a href="#m10"><b>branch_001</b> (Branch, Regression) </a></td><td class="numi">1</td><td>1462817229986</td><td class="numi">16058</td></tr><tr class="passedeven"><td><a href="#m11"><b>branch_002</b> (Branch, Regression, Smoke) </a></td><td class="numi">1</td><td>1462817248299</td><td class="numi">17616</td></tr><tr class="passedeven"><td><a href="#m12"><b>branch_003</b> (Branch, Regression) </a></td><td class="numi">1</td><td>1462817268071</td><td class="numi">17564</td></tr>
+<tr class="passedodd"><td rowspan="2">Test.Gurukula.HomePageTest</td><td><a href="#m13"><b>home_001</b> (Regression, Smoke, Home) </a></td><td class="numi">1</td><td>1462817118770</td><td class="numi">15211</td></tr><tr class="passedodd"><td><a href="#m14"><b>home_002</b> (Regression, Smoke, Home) </a></td><td class="numi">1</td><td>1462817136187</td><td class="numi">15101</td></tr>
+<tr class="passedeven"><td rowspan="7">Test.Gurukula.LoginPageTest</td><td><a href="#m15"><b>login_001</b> (Regression, Login, Smoke) </a></td><td class="numi">1</td><td>1462816974767</td><td class="numi">15839</td></tr><tr class="passedeven"><td><a href="#m16"><b>login_003</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462817010769</td><td class="numi">15395</td></tr><tr class="passedeven"><td><a href="#m17"><b>login_004</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462817028322</td><td class="numi">15752</td></tr><tr class="passedeven"><td><a href="#m18"><b>login_005</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462817046200</td><td class="numi">15979</td></tr><tr class="passedeven"><td><a href="#m19"><b>login_006</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462817064399</td><td class="numi">15598</td></tr><tr class="passedeven"><td><a href="#m20"><b>login_007</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462817082294</td><td class="numi">15649</td></tr><tr class="passedeven"><td><a href="#m21"><b>login_008</b> (Regression, Login) </a></td><td class="numi">1</td><td>1462817100222</td><td class="numi">16317</td></tr>
+<tr class="passedodd"><td rowspan="3">Test.Gurukula.StaffPageTest</td><td><a href="#m22"><b>staff_001</b> (Staff, Regression) </a></td><td class="numi">1</td><td>1462817153449</td><td class="numi">15535</td></tr><tr class="passedodd"><td><a href="#m23"><b>staff_002</b> (Staff, Regression, Smoke) </a></td><td class="numi">1</td><td>1462817171276</td><td class="numi">26959</td></tr><tr class="passedodd"><td><a href="#m24"><b>staff_003</b> (Staff, Regression) </a></td><td class="numi">1</td><td>1462817200454</td><td class="numi">27247</td></tr>
+</table>
+<h1>Test</h1>
+<h2 id="m1">Test.Gurukula.AccountPageTest:account_002</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr>
+<tr class="param stripe"><td>vikram</td>
+<td>gudidevuni</td>
+<td>Vikram.Gudidevuni@gmail.com</td>
+<td> Settings saved.</td>
+</tr>
+<tr><td style="padding-left:3em" colspan="4">
+<p>expected [true] but found [false]</p>
+org.testng.Assert.fail(Assert.java:94)
+<br/>at org.testng.Assert.failNotEquals(Assert.java:494)
+<br/>at org.testng.Assert.assertTrue(Assert.java:42)
+<br/>at org.testng.Assert.assertTrue(Assert.java:52)
+<br/>at Test.Gurukula.AccountPageTest.account_002(AccountPageTest.java:66)
+<br/>34 lines not shown
+</td></tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2">Test.Gurukula.LoginPageTest:login_002</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Please check your credentials and try again.</td>
+</tr>
+<tr><td style="padding-left:3em" colspan="1">
+<p>null</p>
+org.junit.Assert.fail(Assert.java:92)
+<br/>at org.junit.Assert.assertTrue(Assert.java:43)
+<br/>at org.junit.Assert.assertTrue(Assert.java:54)
+<br/>at Test.Gurukula.LoginPageTest.login_002(LoginPageTest.java:62)
+<br/>34 lines not shown
+</td></tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m3">Test.Gurukula.AccountPageTest:account_007</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Session invalidated!</td>
+</tr>
+<tr><td style="padding-left:3em" colspan="1">
+<p>expected [true] but found [false]</p>
+org.testng.Assert.fail(Assert.java:94)
+<br/>at org.testng.Assert.failNotEquals(Assert.java:494)
+<br/>at org.testng.Assert.assertTrue(Assert.java:42)
+<br/>at org.testng.Assert.assertTrue(Assert.java:52)
+<br/>at Test.Gurukula.AccountPageTest.account_007(AccountPageTest.java:185)
+<br/>34 lines not shown
+</td></tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m4">Test.Gurukula.BranchPageTest:branch_001</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Branches</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m5">Test.Gurukula.BranchPageTest:branch_003</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr>
+<tr class="param stripe"><td>BranchOne</td>
+<td>12</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m6">Test.Gurukula.LoginPageTest:login_006</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Registration</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m7">Test.Gurukula.AccountPageTest:account_003</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Password for</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m8">Test.Gurukula.BranchPageTest:branch_002</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr>
+<tr class="param stripe"><td>BranchOne</td>
+<td>12</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m9">Test.Gurukula.AccountPageTest:account_005</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr>
+<tr class="param stripe"><td>Vikky123</td>
+<td>(153, 255, 0)</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m10">Test.Gurukula.AccountPageTest:account_001</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>User settings for</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m11">Test.Gurukula.StaffPageTest:staff_002</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr>
+<tr class="param stripe"><td>StaffOne</td>
+<td>BranchOne</td>
+<td>BranchOne</td>
+<td>12</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m12">Test.Gurukula.LoginPageTest:login_001</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Welcome to Gurukula!</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m13">Test.Gurukula.LoginPageTest:login_003</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Reset your password</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m14">Test.Gurukula.LoginPageTest:login_005</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr>
+<tr class="param stripe"><td>Test</td>
+<td>Your e-mail is invalid.</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m15">Test.Gurukula.LoginPageTest:login_004</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr>
+<tr class="param stripe"><td>Vikram.Gudidevuni@gmail.com</td>
+<td>E-Mail address isn&apos;t registered!</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m16">Test.Gurukula.AccountPageTest:account_004</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr>
+<tr class="param stripe"><td>Pas</td>
+<td>Your password is required to be at least 5 characters.</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m17">Test.Gurukula.AccountPageTest:account_006</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Active sessions for</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m18">Test.Gurukula.StaffPageTest:staff_003</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th></tr>
+<tr class="param stripe"><td>StaffOne</td>
+<td>BranchOne</td>
+<td>BranchOne</td>
+<td>12</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m19">Test.Gurukula.LoginPageTest:login_007</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m20">Test.Gurukula.HomePageTest:home_002</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m21">Test.Gurukula.LoginPageTest:login_008</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr>
+<tr class="param stripe"><td>Vikram</td>
+<td>Vikram_1258@yhoo.com</td>
+<td>Vikram!1234</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m22">Test.Gurukula.AccountPageTest:account_008</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m23">Test.Gurukula.HomePageTest:home_001</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Welcome to Gurukula!</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m24">Test.Gurukula.StaffPageTest:staff_001</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Parameter #1</th></tr>
+<tr class="param stripe"><td>Staffs</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<test name="Test">
+
+<parameter name="pageTitle" value="Welcome to Gurukula!" />  
+  		
+  	<parameter name="resetPageTitle" value="Reset your password" />   	
+  	<parameter name="resetValidEmailAddress" value="Vikram.Gudidevuni@gmail.com" />
+  	<parameter name="resetInvalidEmailAddress" value="Test" />
+  	<parameter name="resetInvalidEmailErrMsg" value="Your e-mail is invalid." />
+  	
+  	<parameter name="authErrMsg" value="Authentication failed!" />
+  	<parameter name="emailErrMsg" value="E-Mail address isn't registered!" />
+  	  
+  	 <parameter name="regstrPageTitle" value="Registration" />	
+  	<parameter name="regstrLoginName" value="Vikram" />
+  	<parameter name="regstrEmail" value="Vikram_1258@yhoo.com" />
+  	<parameter name="regstrPassword" value="Vikram!1234" />  	
+  	
+  	
+  	<parameter name="branchTitle" value="Branches" />
+  	<parameter name="branchName" value="BranchOne" />
+	<parameter name="branchCode" value="12" />
+	<parameter name="branchNameAlphaNumeric" value="Branch_123" />
+	<parameter name="branchNameTwoChars" value="Br" />
+	<parameter name="minLengthBranchNameErrMsg" value="This field is required to be at least 5 characters." />
+	<parameter name="alphaNumericBranchNameErrMsg" value="This field should follow pattern ^[a-zA-Z\s]*$." />	
+	<parameter name="minLengthCodeErrMsg" value="This field is required to be at least 2 characters." />
+	<parameter name="branchCodeLetter" value="1" />
+	<parameter name="branchCodeTwochars" value="BC" />
+	
+	<parameter name="staffPageTitle" value="Staffs" />
+	<parameter name="staffName" value="StaffOne" />
+	<parameter name="staffBranch" value="BranchOne" />	
+	<parameter name="updatedStaffName" value="StaffOneUpdated" />	
+	<parameter name="staffNameLetter1" value="1" />	
+	
+	<parameter name="userSettingsPageTitle" value="User settings for" />
+	<parameter name="userSettingsFirstName" value="vikram" />	
+	<parameter name="userSettingsLastName" value="gudidevuni" />
+	<parameter name="userSettingsEmail" value="Vikram.Gudidevuni@gmail.com" />
+	<parameter name="userSettingsSavedMsg" value=" Settings saved." />
+	
+	<parameter name="passwordPageTitle" value="Password for" />
+	<parameter name="password3Chars" value="Pas" />
+	<parameter name="pwdMinCharsErrMsg" value="Your password is required to be at least 5 characters." />	
+	<parameter name="accountPassword" value="Vikky123" />
+	<parameter name="accountNewPassword" value="Password1" />
+	<parameter name="pwdStrengthRGBRange" value="(153, 255, 0)" />	
+	
+	<parameter name="sessionPageTitle" value="Active sessions for" />
+	<parameter name="sessionValidateMsg" value="Session invalidated!" />
+  
+  
+  	  
+    <classes>    	
+      <class name="Test.Gurukula.AccountPageTest"/>
+      <class name="Test.Gurukula.LoginPageTest"/>
+      <class name="Test.Gurukula.HomePageTest"/>
+      <class name="Test.Gurukula.StaffPageTest"/>
+      <class name="Test.Gurukula.BranchPageTest"/>
+    </classes>
+    
+    </test> <!-- Test --> 
+    
+     
+</suite> <!-- Suite -->

@@ -1,0 +1,11 @@
+com\org\gurukula\pages\HomePage.class
+com\org\gurukula\pages\ResetPassword.class
+com\org\gurukula\pages\BranchPage.class
+com\org\gurukula\common\ConfigValues.class
+com\org\gurukula\pages\BasePage.class
+com\org\gurukula\pages\AccountPage.class
+com\org\gurukula\common\DriverConfig$1.class
+com\org\gurukula\pages\Registration.class
+com\org\gurukula\common\DriverConfig.class
+com\org\gurukula\pages\LoginPage.class
+com\org\gurukula\pages\StaffPage.class

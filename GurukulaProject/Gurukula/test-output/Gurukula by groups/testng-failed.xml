@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Gurukula by groups]">
+  <test name="GRP-Smoke(failed)">
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Test.Gurukula.AccountPageTest">
+        <methods>
+          <include name="account_002" invocation-numbers="0"/>
+          <include name="afterTest"/>
+          <include name="account_001"/>
+          <include name="initializeDriver"/>
+        </methods>
+      </class> <!-- Test.Gurukula.AccountPageTest -->
+      <class name="Test.Gurukula.BranchPageTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="initializeDriver"/>
+        </methods>
+      </class> <!-- Test.Gurukula.BranchPageTest -->
+      <class name="Test.Gurukula.HomePageTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="initializeDriver"/>
+        </methods>
+      </class> <!-- Test.Gurukula.HomePageTest -->
+      <class name="Test.Gurukula.LoginPageTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="initializeDriver"/>
+        </methods>
+      </class> <!-- Test.Gurukula.LoginPageTest -->
+      <class name="Test.Gurukula.StaffPageTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="initializeDriver"/>
+        </methods>
+      </class> <!-- Test.Gurukula.StaffPageTest -->
+    </classes>
+  </test> <!-- GRP-Smoke(failed) -->
+</suite> <!-- Failed suite [Gurukula by groups] -->
